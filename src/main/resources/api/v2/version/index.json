@@ -1,0 +1,19 @@
+{
+    "count": 3,
+    "next": null,
+    "previous": null,
+    "results": [
+        {
+            "name": "red",
+            "url": "/api/v2/version/1/"
+        },
+        {
+            "name": "blue",
+            "url": "/api/v2/version/2/"
+        },
+        {
+            "name": "yellow",
+            "url": "/api/v2/version/3/"
+        }
+    ]
+}
